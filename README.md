@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm AMM Mahi Kaishar</h1>
+<h1 align="center">Hi 👋, I'm Mahi Koishor</h1>
 <h3 align="center">Full Stack Developer | Programmer | Problem Solver 👨‍💻</h3>
 
 > 🛠 Crafting next level of software
 
-I'm a **dedicated** and **passionate** programmer with a **love ❤** for turning ideas into functional reality. My journey in the world of programming began **5 years** ago, and since then, I've been on an exciting quest to continuously learn and grow in this ever-evolving field.
+I'm a **dedicated** and **passionate** programmer with a **love ❤** for turning ideas into functional reality. My journey in the world of programming began **6 years** ago, and since then, I've been on an exciting quest to continuously learn and grow in this ever-evolving field.
 
 #
 
@@ -25,7 +25,7 @@ I'm a **dedicated** and **passionate** programmer with a **love ❤** for turnin
 
 <!-- 
 ## 👨‍💻 **Projects**
-All of my projects are available at [ammmahikaishar.com/projects](ammmahikaishar.vercel.app/projects).
+All of my projects are available at [mahikoishor.com/projects](mahikoishor.vercel.app/projects).
 
 <div>
   <a href="">
@@ -94,13 +94,13 @@ All of my projects are available at [ammmahikaishar.com/projects](ammmahikaishar
 
 ## 📱 **Find Me**
 
-Feel free to reach out to me at [ammmahikaishar@gmail.com](mailto:ammmahikaishar@gmail.com) for collaboration, discussions, or just to geek out about the latest in tech!
+Feel free to reach out to me at [mahikoishor@gmail.com](mailto:mahikoishor@gmail.com) for collaboration, discussions, or just to geek out about the latest in tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammmahikaishar)
-[![Twitter](https://img.shields.io/badge/Twitter-1C96E9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmdmahikaishar&screen_name=ammmahikaishar)
-[![Instagram](https://img.shields.io/badge/Instagram-F50E70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ammmahikaishar)
-[![Facebook](https://img.shields.io/badge/Facebook-1773EA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ammmahikaishar)
-[![Twitch](https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ammmahikaishar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahikoishor)
+[![Twitter](https://img.shields.io/badge/Twitter-1C96E9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmahikoishor&screen_name=mahikoishor)
+[![Instagram](https://img.shields.io/badge/Instagram-F50E70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahikoishor)
+[![Facebook](https://img.shields.io/badge/Facebook-1773EA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahikoishor)
+[![Twitch](https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mahikoishor)
 
 #
 
