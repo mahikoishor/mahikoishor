@@ -17,7 +17,7 @@ I'm a **dedicated** and **passionate** programmer with a **love ❤** for turnin
 
 - 🤝 Looking to **collaborate** with other programmers & community.
 
-- 🎡 2024 Goals: Creating more innovative full stack projects.
+- 🎡 2025 Goals: Creating more innovative full stack projects.
 
 #
 
